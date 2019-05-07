@@ -1,0 +1,23 @@
+{
+  "name": "@pfahlf/sreverse",
+  "version": "1.0.1",
+  "description": "A small string reverse package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pfahlf/sreverse.git"
+  },
+  "keywords": [
+    "reverse",
+    "string"
+  ],
+  "author": "Federico P.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pfahlf/sreverse/issues"
+  },
+  "homepage": "https://github.com/Pfahlf/sreverse#readme"
+}
